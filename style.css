@@ -13,7 +13,7 @@
 
 body {
   height: 100vh;
-  background: linear-gradient(45deg, #00853e, #50c878);
+  background: linear-gradient(45deg, #6f00ff, #ea00ff);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -57,7 +57,7 @@ img {
 }
 
 h2 {
-  color: white;
+  color: rgb(238, 145, 145);
   margin-top: 40px;
 }
 
